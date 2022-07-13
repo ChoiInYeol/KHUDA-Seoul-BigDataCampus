@@ -1,0 +1,5 @@
+https://www.jejudatahub.net/data/view/data/859
+https://open.jejudatahub.net/api/proxy/tbb1D1a1559at91ababaata1abtba58a/{your_projectKey}?{params(key=value)}
+
+https://www.jejudatahub.net/data/view/data/861
+https://open.jejudatahub.net/api/proxy/taD8a8t1atabta1Dtt1tta6bt16ab16a/{your_projectKey}?{params(key=value)}

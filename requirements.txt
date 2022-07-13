@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+statsmodels
+parmap
+sklearn
+tensorflow
+xgboost
+datetime
+ipykernel
+bs4
+pylint
+jupyter
+requests
