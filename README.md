@@ -8,6 +8,7 @@
 
 ```shell
 pip install -r requirements.txt
+pipwin install -r requirements2.txt
 ```
 
 ```plain text

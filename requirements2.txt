@@ -1,0 +1,9 @@
+numpy
+pandas
+shapely
+gdal
+fiona
+pyproj
+six
+rtree
+geopandas
