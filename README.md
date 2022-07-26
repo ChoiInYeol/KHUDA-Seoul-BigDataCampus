@@ -58,6 +58,12 @@ bs4
 pylint
 jupyter
 requests
+pipwin
+geopandas
+libpysal
+matplotlib_scalebar
+ortools
+spaghetti
 ```
 
 ## 참조
