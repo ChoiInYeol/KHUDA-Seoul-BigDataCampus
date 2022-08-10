@@ -1,10 +1,12 @@
 # public-late-night-pharmacies
 
-## 2022 통계데이터 분석·활용대회
+## 2022 서울시 빅데이터 캠퍼스 멘토링 3기
 
-**경희대학교 소프트웨어융합학과 문지원**
+**경희대학교 소프트웨어융합학과 김수빈**
 
 **경희대학교 소프트웨어융합학과 박재훈**
+
+**경희대학교 소프트웨어융합학과 정다영**
 
 **경희대학교 소프트웨어융합학과 최인열**
 
@@ -13,7 +15,7 @@
 ### git clone
 
 ```git
-git clone https://github.com/ChoiInYeol/public-late-night-pharmacies.git
+git clone https://github.com/ChoiInYeol/KHUDA-Seoul-BigDataCampus.git
 ```
 
 ### git 강제 pull 방법
