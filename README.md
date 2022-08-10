@@ -3,11 +3,8 @@
 ## 2022 서울시 빅데이터 캠퍼스 멘토링 3기
 
 **경희대학교 소프트웨어융합학과 김수빈**
-
 **경희대학교 소프트웨어융합학과 박재훈**
-
 **경희대학교 소프트웨어융합학과 정다영**
-
 **경희대학교 소프트웨어융합학과 최인열**
 
 ---
@@ -85,7 +82,7 @@ spaghetti
 
 ---
 
-## 데이터셋
+### 데이터셋
 
 [재훈이를 위한 데이터셋 통합 정리](https://docs.google.com/spreadsheets/d/1vDCOE8dpheTkEFP9GXWKvH5jLpMGtzSVBk8jVdEzJ78/edit?usp=sharing_)
 
@@ -109,7 +106,6 @@ spaghetti
 
 - 고민중
 
-
 ---
 
 ## 인터넷 레퍼런스
@@ -121,8 +117,7 @@ spaghetti
 - [서울시,일차의료기관과 연계한 '공공 야간 약국' 추진, 2020년 8월](https://www.yakup.com/news/index.html?mode=view&nid=247631)
 - [서울특별시 공공 야간·휴일 일차의료 활성화 지원에 관한 조례 만화](blog.naver.com/seoulcouncil/222123186282)
 - [국립중앙의료원 연구보고서 및 통계집](https://www.ppm.or.kr/board/thumbnailList.do?MENUID=A04030000)
-- 
-
+  
 ### 개발 관련
 
 - [공간정보 데이터의 구성 및 기본 이해하기](https://yganalyst.github.io/spatial_analysis/spatial_analysis_1/)
