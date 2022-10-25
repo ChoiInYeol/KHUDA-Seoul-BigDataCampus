@@ -8,7 +8,6 @@ tqdm
 statsmodels
 parmap
 sklearn
-tensorflow
 xgboost
 datetime
 ipykernel
